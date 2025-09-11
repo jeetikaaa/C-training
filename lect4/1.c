@@ -6,7 +6,7 @@ int main(){
     int a ;
     printf("enter a number between 1 to 7 :");
     scanf("%d",&a);
-    // a<4?printf("hello"):printf("hiii");
+    // a<4?printf("hello"):printf("hiiiiiiiiiii");
     switch (a){
         case 1:
             printf("monday");
