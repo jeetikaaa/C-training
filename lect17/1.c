@@ -1,3 +1,5 @@
+//swap using third variable
+
 #include <stdio.h>
 int swap(int *x,int *y){
     int temp=*x;
